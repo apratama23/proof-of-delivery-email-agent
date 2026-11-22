@@ -1,0 +1,32 @@
+# Settings and secrets: copy .env.example to .env
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local data, models and logs (customer data; never committed)
+logs/*
+data/*
+backup/*
+models/*
+!models/.gitkeep
+*.xlsx
+*.xls
+*.csv
+*.log
+
+# The emergency stop file the agent and the dashboard create
+STOP
+
+# Editors and generated graphs
+.vscode/
+.idea/
+graphify-out/

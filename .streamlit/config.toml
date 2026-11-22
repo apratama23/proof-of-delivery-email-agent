@@ -1,0 +1,14 @@
+# Dashboard server settings, read when `streamlit run` starts in this folder.
+
+[server]
+# Only this PC can open the dashboard. Streamlit otherwise listens on every
+# network address, and the dashboard can change the send mode and run the agent.
+address = "localhost"
+port = 8501
+
+[browser]
+gatherUsageStats = false
+
+[client]
+# Hide the "Deploy" button; this dashboard is local only.
+toolbarMode = "minimal"
