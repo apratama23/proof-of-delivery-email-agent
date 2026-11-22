@@ -143,16 +143,16 @@ needed.
 
 | # | File | Holds |
 |---|---|---|
-| 1 | `docs/PRD.md` | Requirements: the problem, goals, users, scope |
-| 2 | `docs/ARCHITECTURE.md` | How the system works: data flow, modules, settings |
-| 3 | `docs/CLASSIFIER.md` | The two classifiers: intent and numbers, their input, models, decisions and training |
-| 4 | `docs/POWER_AUTOMATE_FLOW.md` | The three Power Automate flows: what each does, its files and a diagram |
-| 5 | `docs/RUNBOOK.md` | Install, run, schedule, stop, undo, fix |
-| 6 | `docs/TEST.md` | The three kinds of testing, and the stages of testing in production |
-| 7 | `docs/SIMULATION.md` | The simulation: every scenario and what it checks |
-| 8 | `docs/HANDBOOK.md` | Reference: facts about the environment, design rules, security |
-| 9 | `docs/DECISIONS.md` | Reference: numbered decisions (D-001 to D-061), each with its context and consequences |
-| 10 | `docs/PROGRESS.md` | Reference: the build log and known gaps |
+| 1 | [docs/PRD.md](docs/PRD.md) | Requirements: the problem, goals, users, scope |
+| 2 | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) | How the system works: data flow, modules, settings |
+| 3 | [docs/CLASSIFIER.md](docs/CLASSIFIER.md) | The two classifiers: intent and numbers, their input, models, decisions and training |
+| 4 | [docs/POWER_AUTOMATE_FLOW.md](docs/POWER_AUTOMATE_FLOW.md) | The three Power Automate flows: what each does, its files and a diagram |
+| 5 | [docs/RUNBOOK.md](docs/RUNBOOK.md) | Install, run, schedule, stop, undo, fix |
+| 6 | [docs/TEST.md](docs/TEST.md) | The three kinds of testing, and the stages of testing in production |
+| 7 | [docs/SIMULATION.md](docs/SIMULATION.md) | The simulation: every scenario and what it checks |
+| 8 | [docs/HANDBOOK.md](docs/HANDBOOK.md) | Reference: facts about the environment, design rules, security |
+| 9 | [docs/DECISIONS.md](docs/DECISIONS.md) | Reference: numbered decisions (D-001 to D-061), each with its context and consequences |
+| 10 | [docs/PROGRESS.md](docs/PROGRESS.md) | Reference: the build log and known gaps |
 
 ## Project layout
 
